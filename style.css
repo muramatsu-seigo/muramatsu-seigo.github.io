@@ -145,7 +145,6 @@ img {
   top: 0;
   width: 100%;
   background-color: rgba(255, 255, 255, 0.8);
-  height: 600px;
   padding-top: 145px;
   z-index: 1;
   opacity: 0;
@@ -177,7 +176,7 @@ img {
 
 .header .nav-list {
   text-align: center;
-  padding-bottom: 45px;
+  padding-bottom: 150px;
 }
 
 @media print, screen and (min-width: 768px) {
@@ -243,7 +242,7 @@ img {
 
 .top-image {
   text-align: center;
-  background-image: url(keyboard-933568_1920.jpg);
+  background-image: url(../images/keyboard-933568_1920.jpg);
   height: 700px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -393,7 +392,7 @@ img {
 }
 
 .sec02 {
-  background-image: url(computer-2048166_1920.jpg);
+  background-image: url(../images/computer-2048166_1920.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -455,7 +454,7 @@ img {
 .sec03 {
   padding-bottom: 60px;
   text-align: center;
-  background-image: url(africa-15428_1920.jpg);
+  background-image: url(../images/africa-15428_1920.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -551,7 +550,7 @@ img {
 .sec04 {
   text-align: center;
   padding-bottom: 60px;
-  background-image: url(computer-2982270_1280.jpg);
+  background-image: url(../images/computer-2982270_1280.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
