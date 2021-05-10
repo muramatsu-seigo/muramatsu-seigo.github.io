@@ -355,6 +355,12 @@ img {
   margin-bottom: 30px;
 }
 
+@media (max-width: 767px) {
+  .sec01 img {
+    width: 40%;
+  }
+}
+
 .sec01 h3 {
   font-size: 24px;
   padding: 20px 0;
@@ -545,6 +551,8 @@ img {
 .sec03 .sec03-content {
   line-height: 24px;
   color: #fff;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .sec04 {
@@ -603,10 +611,17 @@ img {
 }
 
 .sec04 .works .work .work-content p {
-  color: #fff;
   padding-top: 100px;
-  line-height: 40px;
-  font-size: 20px;
+  color: #fff;
+  line-height: 32px;
+}
+
+@media (max-width: 767px) {
+  .sec04 .works .work .work-content p {
+    padding-top: 70px;
+    font-size: 14px;
+    line-height: 28px;
+  }
 }
 
 .sec04 .works .work + .work {
